@@ -1,5 +1,5 @@
 - Project Name : Design and analysis of Digital Filter and its application to remove noise from ECG signal.
-- Weblink : https://sites.google.com/view/mamunarrahoman/project-page/ecg_filter
+- Weblink : https://mamunarrahoman.github.io/pages/projects/ecg_signal.html
 - Install MATLAB on your system.
 - Open problem1.m and problem2.m file using MATLAB
 - ECGData.mat is real time ECG data.
